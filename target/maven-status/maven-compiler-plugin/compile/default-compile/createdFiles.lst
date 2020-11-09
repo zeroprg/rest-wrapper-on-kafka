@@ -1,0 +1,4 @@
+com\charter\spectrum\mobile\core\kafka\restclient\ResponseObjectFacade.class
+com\charter\spectrum\mobile\core\kafka\ConsumerRestCaller.class
+com\charter\spectrum\mobile\core\kafka\restclient\ResponseObject.class
+com\kafkaexample\demo\TestController.class

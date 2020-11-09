@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kafkaexample.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.896 s - in com.kafkaexample.demo.DemoApplicationTests
